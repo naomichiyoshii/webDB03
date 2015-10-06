@@ -3,3 +3,5 @@
 Microsoft社の、
 BillGates氏が、
 講演会を行う
+テーマは「Moon Micro Systems社の開発環境 Moon-1を用いた開発」
+受講料は2,000円
